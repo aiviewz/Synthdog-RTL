@@ -98,7 +98,7 @@ To extend support for other RTL languages, follow these steps:
 
 This repository is based on the original [SynthDoG for LTR Languages](https://github.com/clovaai/donut/tree/master/synthdog) developed by Clova AI. Any copyright-related queries should refer to the original repository.
 
-For additional information on using SynthDog-RTL and customizing configurations, see our [Complete Tutorial](#).
+For additional information on using SynthDog-RTL and customizing configurations, see our [Complete Tutorial](https://www.aiviewz.com/post/how-to-create-synthetic-dataset-for-donut-ocr-for-your-custom-language).
 
 ## **License**
 
