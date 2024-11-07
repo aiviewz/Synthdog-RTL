@@ -109,5 +109,3 @@ Refer to the [LICENSE](LICENSE) file for detailed license information.
 Contributions are welcome! Feel free to open an issue or submit a pull request if you have suggestions for improvement or new features.
 
 ---
-
-This `README.md` provides a comprehensive introduction and guide to using SynthDog-RTL, along with references to the original SynthDog for any copyright considerations.
